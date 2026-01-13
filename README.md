@@ -1,0 +1,1 @@
+A program simulating a game of old maiden. Made with STL. More will be added.

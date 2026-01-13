@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/if/Linous/a/build",
+  "command": "/usr/bin/c++  -I/home/if/Linous/a/./include -g -o CMakeFiles/OLD_MAIDEN.dir/source/main.cpp.o -c /home/if/Linous/a/source/main.cpp",
+  "file": "/home/if/Linous/a/source/main.cpp",
+  "output": "CMakeFiles/OLD_MAIDEN.dir/source/main.cpp.o"
+},
+{
+  "directory": "/home/if/Linous/a/build",
+  "command": "/usr/bin/c++  -I/home/if/Linous/a/./include -g -o CMakeFiles/OLD_MAIDEN.dir/source/card.cpp.o -c /home/if/Linous/a/source/card.cpp",
+  "file": "/home/if/Linous/a/source/card.cpp",
+  "output": "CMakeFiles/OLD_MAIDEN.dir/source/card.cpp.o"
+}
+]

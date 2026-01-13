@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OLD_MAIDEN.dir/source/main.cpp.o CMakeFiles/OLD_MAIDEN.dir/source/card.cpp.o -o OLD_MAIDEN 
