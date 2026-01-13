@@ -1,1 +1,1 @@
-A program simulating a game of old maiden. Made with STL. More will be added.
+The original author's first project. A CLI (maybe GUI too in the future) program simulating a game of old maiden (parody of the card game old maid, popular in japan as babanuki). Made with STL. More will be added.
