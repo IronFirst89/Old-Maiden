@@ -1,3 +1,0 @@
-/home/if/Linous/a/build/CMakeFiles/OLD_MAIDEN.dir
-/home/if/Linous/a/build/CMakeFiles/edit_cache.dir
-/home/if/Linous/a/build/CMakeFiles/rebuild_cache.dir
